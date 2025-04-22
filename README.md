@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prototipo de Asistente Bancario de IA
 
 Este proyecto es un prototipo de asistente bancario de IA para Banamex, Inbursa y BBVA, usando OpenAI y Oracle.
@@ -36,3 +37,6 @@ Para iniciar la aplicación:
 ```bash
 python main.py
 ```
+=======
+# chatbot_financiero
+>>>>>>> fcf24647b3e0e7fd649460be0828ebc02f008b66
